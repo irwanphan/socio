@@ -1,12 +1,10 @@
 <template>
-    <div>Start
-        <router-view></router-view>
-    </div>
+    <div>asdasd</div>
 </template>
 
 <script>
     export default {
-        name: "App"
+        name: "Start"
     }
 </script>
 
