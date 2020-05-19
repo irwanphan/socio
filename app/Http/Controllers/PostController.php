@@ -8,6 +8,6 @@ class PostController extends Controller
 {
     public function store()
     {
-        
+        return response([], 201);
     }
 }
